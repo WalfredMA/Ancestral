@@ -23,8 +23,6 @@ for op, value in opts:
             correct=1
         if op=='-p':
             projecton=1
-        if op=='-s':
-            source=int(value)
 try:
     os.mkdir('ref_phased')
 except:
