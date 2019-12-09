@@ -10,7 +10,7 @@ Two versions are available: 1.unphased version for unphased data
 
 -----------Usage-----------
 
-python2.7 -f inputfile [options]
+python2.7 script.py -f inputfile [options]
 
 
 -----------options-----------
