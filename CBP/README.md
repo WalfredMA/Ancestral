@@ -1,5 +1,5 @@
 
-Use Conditional Binomial Probability to determine local ethnicity
+Use Conditional Binomial Probability (CBP) to determine local ethnicity
 
 -----------Usage-----------
 
@@ -9,7 +9,7 @@ python2.7 call.py -f inputfile -t target_sample_name [options]
 
 -p:
 
-If included, enter phased mode, default is unphased mode
+If included, enter phased mode, used for phased loci. Default mode is for unphase loci.
 
 -r [string]:
 
