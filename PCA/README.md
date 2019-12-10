@@ -1,2 +1,2 @@
 
-Generate PCA plots and Determine ancestral based on eigenvectors from PCA and vector spcace projection.
+Generate PCA plots and determine ancestral based on eigenvectors from PCA and vector spcace projection.
